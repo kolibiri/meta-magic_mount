@@ -53,9 +53,9 @@ partitions = []
 
 * cargo-ndk
 
-* Node.js / npm
+* Node.js / pnpm
 
-* pnpm and vite as dependency and frontend for webui
+* vite as dependency and frontend for webui
 
 环境变量：
 ```shell
